@@ -37,14 +37,6 @@ cms-sales-website-portfolio/
 ├─ product-halogen.jpg
 └─ product-bulk.jpg
 
-
----
-
-## 📸 Screenshots (Optional)
-
-> Insert demo UI snapshots here  
-> *(Only use licensed or personally created media)*
-
 ---
 
 ## 🚫 Important Notice
